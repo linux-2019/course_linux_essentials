@@ -35,3 +35,4 @@ title: X - Crazy Command List
 | `cd [PATH]` | Change working directory |
 | **Examples** | `cd /boot`, `cd`, `cd ..` |
 | **Common Options** | *none* |
+
